@@ -1,0 +1,9 @@
+D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\bin\Release\NGWallpaper.exe.config
+D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\bin\Release\NGWallpaper.exe
+D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\bin\Release\NGWallpaper.pdb
+D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Release\NGWallpaper.AboutBox.resources
+D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Release\NGWallpaper.Properties.Resources.resources
+D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Release\NGWallpaper.csproj.GenerateResource.cache
+D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Release\NGWallpaper.csproj.CoreCompileInputs.cache
+D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Release\NGWallpaper.exe
+D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Release\NGWallpaper.pdb
