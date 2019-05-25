@@ -1,9 +1,0 @@
-D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csprojAssemblyReference.cache
-D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\bin\Debug\SystemTrayApp.exe
-D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\bin\Debug\SystemTrayApp.pdb
-D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Debug\SystemTrayApp.AboutBox.resources
-D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Debug\SystemTrayApp.Properties.Resources.resources
-D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csproj.GenerateResource.cache
-D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Debug\SystemTrayApp.csproj.CoreCompileInputs.cache
-D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Debug\SystemTrayApp.exe
-D:\Users\lianz\Coding\Temp\NGWallPaper\SystemTrayApp\obj\x86\Debug\SystemTrayApp.pdb
